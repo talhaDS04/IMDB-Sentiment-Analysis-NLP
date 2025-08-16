@@ -52,7 +52,7 @@ Sentiment analysis helps businesses, researchers, and platforms understand user 
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/IMDB-Sentiment-Analysis-NLP.git
+   git clone https://github.com/talhaDS04/IMDB-Sentiment-Analysis-NLP.git
    cd IMDB-Sentiment-Analysis-NLP
 2. Install required libraries: <br>
    pip install -r requirements.txt
