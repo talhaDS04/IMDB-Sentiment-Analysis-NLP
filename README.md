@@ -1,6 +1,3 @@
-## 📄 README.md
-
-````markdown
 # 🎬 Sentiment Analysis on IMDB Movie Reviews using NLP & Naive Bayes
 
 ## 📌 Project Overview
@@ -57,34 +54,31 @@ Sentiment analysis helps businesses, researchers, and platforms understand user 
    ```bash
    git clone https://github.com/your-username/IMDB-Sentiment-Analysis-NLP.git
    cd IMDB-Sentiment-Analysis-NLP
-````
-
 2. Install required libraries:
-
-   ```bash
    pip install -r requirements.txt
-   ```
-
 3. Open the notebook:
-
-   ```bash
    jupyter notebook IMDB_Sentiment_Analysis.ipynb
-   ```
 
----
+   
+📌 Future Improvements:
 
-## 📌 Future Improvements
+Try Logistic Regression, SVM, or Deep Learning models (LSTMs, Transformers)
+Use word n-grams for more context
+Perform hyperparameter tuning
 
-* Try **Logistic Regression, SVM, or Deep Learning models (LSTMs, Transformers)**
-* Use **word n-grams** for more context
-* Perform **hyperparameter tuning**
+👨‍💻 Author:
 
----
+Muhammad Talha Younas
+📧 Email: talhayounas696@gmail.com
 
-## 👨‍💻 Author
+⭐ Acknowledgement:
 
-* **Muhammad Talha Younas**
-  📧 Email: [talhayounas696@gmail.com](mailto:talhayounas696@gmail.com)
- 
-Do you also want me to prepare a **`requirements.txt` file** (list of Python libraries with versions) so anyone can run your repo easily?
-```
+Mentor: Ali Mohiuddin Khan
+Dataset: IMDB Movie Reviews (50,000 labeled dataset).
+
+
+
+
+
+   git clone https://github.com/your-username/IMDB-Sentiment-Analysis-NLP.git
+   cd IMDB-Sentiment-Analysis-NLP
