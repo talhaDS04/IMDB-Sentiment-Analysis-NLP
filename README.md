@@ -54,31 +54,24 @@ Sentiment analysis helps businesses, researchers, and platforms understand user 
    ```bash
    git clone https://github.com/your-username/IMDB-Sentiment-Analysis-NLP.git
    cd IMDB-Sentiment-Analysis-NLP
-2. Install required libraries:
+2. Install required libraries: <br>
    pip install -r requirements.txt
-3. Open the notebook:
+3. Open the notebook: <br>
    jupyter notebook IMDB_Sentiment_Analysis.ipynb
 
    
 📌 Future Improvements:
 
-Try Logistic Regression, SVM, or Deep Learning models (LSTMs, Transformers)
-Use word n-grams for more context
+Try Logistic Regression, SVM, or Deep Learning models (LSTMs, Transformers)<br>
+Use word n-grams for more context<br>
 Perform hyperparameter tuning
 
 👨‍💻 Author:
 
-Muhammad Talha Younas
+Muhammad Talha Younas <br>
 📧 Email: talhayounas696@gmail.com
 
 ⭐ Acknowledgement:
 
-Mentor: Ali Mohiuddin Khan
+Mentor: Ali Mohiuddin Khan <br>
 Dataset: IMDB Movie Reviews (50,000 labeled dataset).
-
-
-
-
-
-   git clone https://github.com/your-username/IMDB-Sentiment-Analysis-NLP.git
-   cd IMDB-Sentiment-Analysis-NLP
